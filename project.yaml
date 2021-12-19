@@ -1,6 +1,6 @@
 specVersion: 0.0.1
-description: ''
-repository: ''
+description: 'rev look up exercise'
+repository: 'https://github.com/misterdoice/subql3revlookup.git'
 schema: ./schema.graphql
 network:
   endpoint: 'wss://polkadot.api.onfinality.io/public-ws'
